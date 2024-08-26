@@ -1,0 +1,7 @@
+.footer {
+  background-color: #000; /* Fundo preto */
+  color: #ffeb3b; /* Texto na cor #ffeb3b */
+  text-align: center; /* Alinha o texto no centro */
+  padding: 10px; /* Espaçamento interno */
+  bottom: 0;
+}

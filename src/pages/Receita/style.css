@@ -1,0 +1,59 @@
+/* Estilo geral da página de receitas */
+.receita-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.receita-card {
+  max-width: 800px;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.receita-titulo {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.receita-ingredientes {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.receita-ingredientes li {
+  margin: 5px 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+.receita-modo-preparo {
+  margin-top: 20px;
+}
+
+.receita-modo-preparo h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.receita-modo-preparo ul {
+  list-style-type: decimal;
+  padding-left: 20px;
+  margin: 0;
+}
+
+.receita-modo-preparo li {
+  margin: 10px 0;
+  font-size: 1rem;
+  color: #666;
+}

@@ -1,0 +1,205 @@
+{
+  "_list": [
+    {
+      "id": 1,
+      "titulo": "Spaghetti à Carbonara",
+      "ingredientes": [
+        "200g de spaghetti",
+        "100g de pancetta",
+        "2 ovos grandes",
+        "50g de queijo pecorino",
+        "50g de parmesão",
+        "2 dentes de alho",
+        "Pimenta-do-reino",
+        "Sal"
+      ],
+      "modoPreparo": [
+        "Cozinhe o spaghetti em água salgada.",
+        "Frite a pancetta até ficar crocante.",
+        "Bata os ovos com os queijos ralados.",
+        "Escorra o spaghetti, misture com a pancetta e o alho.",
+        "Misture os ovos fora do fogo.",
+        "Tempere com pimenta-do-reino e sirva."
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Frango Tikka Masala",
+      "ingredientes": [
+        "500g de peito de frango",
+        "200g de iogurte",
+        "2 colheres de sopa de pasta tikka masala",
+        "1 cebola",
+        "2 dentes de alho",
+        "200g de molho de tomate",
+        "100ml de creme de leite",
+        "Folhas de coentro"
+      ],
+      "modoPreparo": [
+        "Marinar o frango no iogurte e na pasta tikka masala.",
+        "Grelhar o frango até estar cozido.",
+        "Fritar a cebola e o alho até dourarem.",
+        "Adicionar o molho de tomate e o creme de leite, e deixar ferver.",
+        "Adicionar o frango grelhado e cozinhar por mais 10 minutos.",
+        "Decorar com folhas de coentro e servir."
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Moqueca de Peixe",
+      "ingredientes": [
+        "600g de filé de peixe",
+        "2 dentes de alho",
+        "1 cebola grande",
+        "1 pimentão vermelho",
+        "1 pimentão verde",
+        "200ml de leite de coco",
+        "1 colher de sopa de azeite de dendê",
+        "Coentro e sal a gosto"
+      ],
+      "modoPreparo": [
+        "Tempere o peixe com alho e sal.",
+        "Refogue a cebola e os pimentões em azeite de dendê.",
+        "Adicione o peixe e o leite de coco.",
+        "Cozinhe em fogo baixo até o peixe ficar macio.",
+        "Finalize com coentro e sirva com arroz branco."
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Feijoada",
+      "ingredientes": [
+        "500g de feijão preto",
+        "200g de carne seca",
+        "200g de linguiça calabresa",
+        "100g de bacon",
+        "1 cebola",
+        "2 dentes de alho",
+        "Folha de louro",
+        "Sal e pimenta-do-reino a gosto"
+      ],
+      "modoPreparo": [
+        "Deixe o feijão de molho por 12 horas.",
+        "Cozinhe o feijão com a folha de louro.",
+        "Refogue as carnes com alho e cebola.",
+        "Misture as carnes ao feijão e cozinhe até engrossar.",
+        "Tempere com sal e pimenta e sirva com arroz e couve."
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Bolo de Cenoura",
+      "ingredientes": [
+        "3 cenouras médias",
+        "4 ovos",
+        "1 xícara de óleo",
+        "2 xícaras de açúcar",
+        "2 xícaras de farinha de trigo",
+        "1 colher de sopa de fermento em pó",
+        "1 pitada de sal"
+      ],
+      "modoPreparo": [
+        "Bata no liquidificador as cenouras, ovos e óleo.",
+        "Misture o açúcar, farinha e fermento em uma tigela.",
+        "Adicione a mistura do liquidificador e mexa bem.",
+        "Despeje em uma forma untada e asse por 40 minutos a 180°C.",
+        "Sirva com cobertura de chocolate."
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Pão de Queijo",
+      "ingredientes": [
+        "500g de polvilho azedo",
+        "250ml de leite",
+        "150ml de óleo",
+        "2 ovos",
+        "200g de queijo minas ralado",
+        "Sal a gosto"
+      ],
+      "modoPreparo": [
+        "Ferva o leite com o óleo e despeje sobre o polvilho.",
+        "Misture até formar uma massa homogênea.",
+        "Adicione os ovos e o queijo, misturando bem.",
+        "Forme bolinhas e asse em forno preaquecido a 180°C por 25 minutos.",
+        "Sirva quente."
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "Coxinha",
+      "ingredientes": [
+        "500g de peito de frango desfiado",
+        "2 colheres de sopa de requeijão",
+        "1 cebola pequena",
+        "2 dentes de alho",
+        "2 xícaras de farinha de trigo",
+        "2 xícaras de caldo de galinha",
+        "Farinha de rosca para empanar",
+        "Óleo para fritar"
+      ],
+      "modoPreparo": [
+        "Refogue o frango com alho, cebola e temperos.",
+        "Misture o requeijão ao frango desfiado e reserve.",
+        "Prepare uma massa cozinhando o caldo de galinha com a farinha.",
+        "Envolva o frango na massa e molde as coxinhas.",
+        "Empane na farinha de rosca e frite até dourar.",
+        "Sirva quente."
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "Brigadeiro",
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de cacau em pó",
+        "1 colher de sopa de manteiga",
+        "Chocolate granulado para decorar"
+      ],
+      "modoPreparo": [
+        "Misture o leite condensado, cacau e manteiga em uma panela.",
+        "Cozinhe em fogo médio, mexendo sempre, até desgrudar do fundo.",
+        "Deixe esfriar, enrole em bolinhas e passe no granulado.",
+        "Sirva em forminhas."
+      ]
+    },
+    {
+      "id": 9,
+      "titulo": "Arroz de Carreteiro",
+      "ingredientes": [
+        "300g de carne seca desfiada",
+        "2 xícaras de arroz",
+        "1 cebola",
+        "2 dentes de alho",
+        "1 pimentão vermelho",
+        "2 tomates",
+        "Cheiro-verde e sal a gosto"
+      ],
+      "modoPreparo": [
+        "Refogue a carne seca com alho e cebola.",
+        "Adicione o arroz e refogue junto.",
+        "Acrescente o pimentão, tomate e água para cozinhar.",
+        "Cozinhe até o arroz ficar macio e a água secar.",
+        "Finalize com cheiro-verde e sirva."
+      ]
+    },
+    {
+      "id": 10,
+      "titulo": "Quindim",
+      "ingredientes": [
+        "200g de coco ralado",
+        "10 gemas",
+        "200g de açúcar",
+        "50g de manteiga derretida",
+        "1 colher de chá de essência de baunilha"
+      ],
+      "modoPreparo": [
+        "Misture o coco ralado com as gemas e o açúcar.",
+        "Adicione a manteiga e a essência de baunilha, misturando bem.",
+        "Despeje a mistura em forminhas untadas com manteiga e açúcar.",
+        "Asse em banho-maria por 40 minutos a 180°C.",
+        "Deixe esfriar e desenforme."
+      ]
+    }
+  ]
+}

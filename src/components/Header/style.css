@@ -1,0 +1,46 @@
+.header {
+  padding: 10px 20px;
+  background-color: #ffeb3b;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.header .logo h1 a {
+  text-decoration: none;
+  color: #6A0D91;
+}
+
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+}
+
+.nav-links li {
+  display: inline;
+}
+
+.nav-links a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #6A0D91;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #000;
+  transition: .5s;
+}
+
+hr{
+}
